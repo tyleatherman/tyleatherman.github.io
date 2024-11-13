@@ -1,7 +1,2 @@
-## This is a joke, my name isnt really bobby. 😂😂😂😂😂😂😂
-
-> [!NOTE]
-> This is way less complicated that it seems!
-
-> [!IMPORTANT]
-> You need to have fun when creating things!
+# [(1)](www.softwaredegrees.org/resources/software-engineer-mental-health-guide/)
+# [(2)](https://www.proquest.com/compscijour/docview/1919938151/D56BD370A04E49F1PQ/1?accountid=9649&sourcetype=Trade%20Journals)
