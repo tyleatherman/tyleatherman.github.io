@@ -1,6 +1,3 @@
-# tyleatherman.github.io
-my name bobby leatherman
-
 ## This is a joke, my name isnt really bobby. 😂😂😂😂😂😂😂
 
 > [!NOTE]
